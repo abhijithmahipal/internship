@@ -4,3 +4,20 @@ Studied to commit and push
 Now completed pushing and synched with remote repo.
 Again editing to commit and push again. Will update if success.
 
+Success.
+Recap
+First created a folder locally.
+Then created a repo remotely.
+git init 
+git add *
+git commit -m "message"
+git remote add origin url
+
+now pulled repo to bring readme
+git pull https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git BRANCH_NAME
+
+
+then pushed.
+git push -u origin master
+give username and pwd.
+
