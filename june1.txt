@@ -1,1 +1,2 @@
-Studied to create Git repository and 
+Studied to create Git repository 
+Studied to commit and push
