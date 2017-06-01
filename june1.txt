@@ -1,2 +1,6 @@
 Studied to create Git repository 
 Studied to commit and push
+
+Now completed pushing and synched with remote repo.
+Again editing to commit and push again. Will update if success.
+
