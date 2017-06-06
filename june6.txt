@@ -1,2 +1,5 @@
 Read and worked out git1.pdf along with gitbasic.mp4
 
+Created branch, added files, watched log reports, merged branch, and finally deleted branch.
+Have to use -D if not merged. then the data will lose as well. 
+
