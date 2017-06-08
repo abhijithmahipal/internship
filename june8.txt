@@ -1,1 +1,7 @@
 pushing without username and password, allowing SSH to login
+
+started with week0 exercise
+logged into remote pc 
+found out qns folder
+started answering.
+Google is the key .
