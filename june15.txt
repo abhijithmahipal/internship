@@ -1,0 +1,2 @@
+Built python from source code.
+Created a git repo named python-from-source and detailed the steps for the above in its read me file.
