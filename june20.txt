@@ -1,0 +1,1 @@
+Studied think python, reading whole but skipping exercise inorder to start google python very soon. Making note with all codes in the book. Posted first python program to python_exercises repo.
